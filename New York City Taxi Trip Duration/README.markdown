@@ -4,6 +4,6 @@ New York City Taxi Trip Duration: https://www.kaggle.com/c/nyc-taxi-trip-duratio
 
 You can also download the dataset from here: https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 
-To make our prediction I will use Ridge and Lasso regressions,cross-validation, OneHotEncorder, GridSearchCV.
+To make our prediction I will use Ridge and Lasso regressions,cross-validation, OneHotEncorder, GridSearchCV and other.
 
 If you want to view my work, click on the .ipynb file.
